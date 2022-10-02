@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Divyadarshan Mohapatra</h1>
 <h3 align="center">A tech-enthusiast web developer with a flair for creating elegant solutions in the least amount of time.</h3>
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-- 🔭 I’m currently working on **Social Meadia Application**
+- 🔭 I’m currently working on **Social Media Application**
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -11,10 +12,11 @@
 
 - 📄 Know about my experiences [https://divyadarshan-mohapatra-portfolio.vercel.app/](https://divyadarshan-mohapatra-portfolio.vercel.app/)
 
-- ⚡ Fun fact **I can turn coffee into code**
+- ⚡ Fun fact **When all else fails … reboot.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/divyadarshan-mohapatra-gl1tchdm7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyadarshan-mohapatra-gl1tchdm7" height="30" width="40" /></a>
 <a href="https://twitter.com/gl1tch_dm7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gl1tch_dm7" height="30" width="40" /></a>
 </p>
 
