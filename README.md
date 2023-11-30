@@ -2,7 +2,7 @@
 <h3 align="center">A tech-enthusiast web developer with a flair for creating elegant user interfaces for more easy user experience.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-- 🔭 I’m currently working on **Social Media Application**
+- 🔭 I’m currently working as **Front-End Web Developer**
 
 - 🌱 I’m currently learning **MERN Stack**
 
