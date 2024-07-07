@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **divyadarshandvd007@gmail.com**
 
-- 📄 Know about my experiences [https://divyadarshan-mohapatra-portfolio.vercel.app/](https://divyadarshan-mohapatra-portfolio.vercel.app/)
+- 📄 Know about my [experiences](https://divyadarshan-mohapatra-portfolio.vercel.app/)
 
 - ⚡ Fun fact **When all else fails … reboot.**
 
